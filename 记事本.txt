@@ -1,0 +1,122 @@
+﻿香港服务器地址
+http://103.20.220.36:3312/     账号hkfree2838400497密码yangyang    凯速网 https://my.ksust.com/service.htm  永硕  http://qq251736474.ysepan.com/?xzpd=1
+
+直播地址30632-9BE6E-D56BA-80F92
+dx1,https://jihulab.com/q251736474/iptv/-/raw/main/dxtv
+dx2,http://zxy.xyzxyz.love/iptv/dxtv.txt
+dx3,https://d.kstore.space/download/6120/dxtv.txt
+yd1,https://jihulab.com/q251736474/iptv/-/raw/main/ydtv
+yd2,http://zxy.xyzxyz.love/iptv/ydtv.txt
+yd3,https://d.kstore.space/download/6120/jxyd.txt
+http://jiami.guimei.work/a/1709385631.txt
+电信  http://ys-d.ysepan.com/626294127/820570374/jut7GGs8J354U6S3QM4Q66/dxtv.txt
+
+移动 http://ys-e.ysepan.com/626294149/820570398/kvr4LJo5G465S466JMIHT17/ydtv.txt
+EPG  https://diyp.112114.xyz/    		 
+     https://epg.112114.xyz/    	    http://epg.51zmt.top:8000/	 
+     https://epg.112114.eu.org/   
+南昌新闻综合,http://live.cooltv.top/tv/nctv.php?id=1
+南昌文旅,http://live.cooltv.top/tv/nctv.php?id=2
+南昌资讯,http://live.cooltv.top/tv/nctv.php?id=3
+
+tvbox地址
+http://zxy.xyzxyz.love/tvbox/box.txt
+http://www.xyzxyz.store:999/tvbox/7.json
+
+
+
+DDNS-GO
+http://192.168.101.3:9876/
+
+
+https://img.woyaogexing.com/2015/01/29/3e2367edbc3c56d5%21600x600.jpg     图片
+
+
+微软邮箱
+yangyang1234567892023@outlook.com
+Caonimabi
+
+yangyang1234567892023@outlook.com
+yang123yang456
+Caonimabi258369
+
+dns3.hichina.com    dns4.hichina.com
+
+
+.method public getChannelUrl()Ljava/lang/String;
+    .registers 3
+
+    const-string v0, "http://iptv.txt"  #源接口
+    return-object v0
+.end method
+
+1.62.64.[43,80,102,97,122,186,194,192,211,213,212,215,220,222,234,241]; 支持百事通、秦岭云
+1.180.234 [138,224,236,244,132,250,205,193,197,211,222,216,188,233,239]; 支持百事通、秦岭云 、凤凰
+42.236.89 [16,148,90,21,6,158,99,82,23,31,29,100,81,17,95]; 支持百事通、秦岭云 、凤凰
+
+140.249.247[109,145,155,156,154,152,142,153,141,144,157,163,161,162,164,166,165,143,151,147,146];  支持百事通、秦岭云、凤凰
+111.40.174.89[75,47,7]  支持秦岭云、凤凰
+111.31.106.140     支持百事通、秦岭云
+110.249.196.[186、182、96、71、181]  支持秦岭云、凤凰
+123.184.27  [20,181,117,93,215,210];  支持百事通、秦岭云                                 
+182.247.251[159,46,166,170,180,91,164,47,214,213,232]; 支持百事通、秦岭云、凤凰          
+183.204.12 [42,160,144,142,11,26,40,33,143,31,163,149,165,17,147,22,232,159,41,145,150];  支持百事通、秦岭云 、凤凰
+183.204.14[11,19,180,151] 
+183.204.15[55,125,183,191]  
+
+公共资源
+1、多线路IPTV资源
+https://m3u.ibert.me/
+2、央视频代理
+https://taoiptv.com/Yshipin.txt
+3、直播平台代理
+虎牙直播 http://lives.taoiptv.com/huyayqk.m3u
+斗鱼直播 http://lives.taoiptv.com/douyuyqk.m3u
+YY轮播 http://lives.taoiptv.com/yylunbo.m3u
+
+
+📆EPG接口地址：
+https://live.fanmingming.com/e.xml
+🏞️Bing每日图片：
+https://fanmingming.com/bing
+🎞️m3u8下载工具：
+https://live.fanmingming.com/m3u8
+🆕TXT转M3U格式：
+https://live.fanmingming.com/txt2m3u
+📄M3U转TXT格式：
+Demo🔗 https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u
+🌐M3U8 Web Player:
+Demo🔗 https://live.fanmingming.com/player/?vurl=https://0472.org/hls/cctv13.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
